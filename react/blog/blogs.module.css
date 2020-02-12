@@ -1,0 +1,35 @@
+._largerImages {
+  max-height: 50%;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  border-top: 1rem;
+}
+
+._cardImages {
+  height: 350px;
+  object-fit: cover;
+}
+
+._jumboTron {
+  padding: 30px;
+  margin: 30px;
+}
+
+._footer {
+  bottom: 0%;
+  width: 100%;
+}
+
+.nice-dates-navigation,
+.nice-dates-day {
+  color: #111;
+}
+.nice-dates-popover {
+  box-shadow: none;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  max-width: 480px;
+  transition: none;
+}
